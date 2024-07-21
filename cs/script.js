@@ -108,3 +108,4 @@
 //         line =""
 //     }
 // }
+// multiplicationTable(4);
